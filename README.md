@@ -1,9 +1,6 @@
 ![Metrics](https://metrics.lecoq.io/Natalie-Skalicka?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FGuatemala)
   
 ## Hello i'm just fellow nobody how does way too much of cursed code shananigans
-- Associates in Computer Science at University of Belize 🏴
-- C++ Developer and Rustacean 🦀
-- Im an anime fan 🐱‍🏍
 
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
